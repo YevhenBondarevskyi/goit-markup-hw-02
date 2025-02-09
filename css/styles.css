@@ -132,7 +132,7 @@ background-color: #fff;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        text-transform:capitalize
+        text-transform:capitalize;
 }
 
 .team-list {}
@@ -170,7 +170,7 @@ background-color: #fff;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        text-transform: capitalize
+        text-transform: capitalize;
 }
 
 .portfolio-title-list {}
