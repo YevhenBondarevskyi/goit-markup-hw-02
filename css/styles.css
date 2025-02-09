@@ -204,7 +204,7 @@ background-color: #fff;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        text-transform: uppercase;
+        text-transform: capitalize;
         color: #4d5ae5;
 }
 
