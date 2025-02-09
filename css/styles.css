@@ -32,7 +32,8 @@ button{
 }
 
 .logo-style {
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .nav-header-list {}
 
@@ -43,7 +44,8 @@ button{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .item-nov-link:hover, .item-nov-link:focus
 {
@@ -91,7 +93,7 @@ color: #404bbf;
 }
 .hero-btn:focus, .hero-btn:hover
 {
-        background: #404bbf
+        background-color: #404bbf;
 }
 /* #endregion hero*/
 /* #region advantages*/
@@ -136,7 +138,7 @@ background-color: #fff;
 }
 
 .team-list {
-    background-color: #FFFFFF;
+    background-color: #fff;
 }
 
 .team-link {}
