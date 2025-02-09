@@ -129,20 +129,18 @@ background-color: #fff;
 }
 
 .team-title {
-    font-weight: 700;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        text-transform:capitalize;
+        text-transform: capitalize;
 }
 
-.team-list{
-background-color: #FFFFFF;
-}
+.team-list{}
 
-.team-link {}
+.team-link {background-color: #FFFFFF;}
 
 .team-name {
         font-weight: 500;
