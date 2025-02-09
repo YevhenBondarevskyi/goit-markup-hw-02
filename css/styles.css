@@ -137,7 +137,9 @@ background-color: #fff;
         color: #2e2f42;
         text-transform:capitalize;
 }
-
+.team-foto{
+        background-color: #fff;
+}
 .team-list{}
 
 .team-link {}
