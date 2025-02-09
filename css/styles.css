@@ -10,6 +10,7 @@ a{
 
 ul,ol{
     list-style:none;
+    background-color: #fff;
 }
 
 button{
@@ -137,9 +138,7 @@ background-color: #fff;
         color: #2e2f42;
         text-transform:capitalize;
 }
-.team-foto{
-        background-color: #FFFFFF;
-}
+
 .team-list{}
 
 .team-link {}
