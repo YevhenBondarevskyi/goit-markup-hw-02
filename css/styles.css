@@ -125,7 +125,7 @@ background-color: #fff;
 /* #endregion advantages*/
 /* #region team*/
 .team {
-    background-color: #fff;
+    background-color: #F4F4FD;
 }
 
 .team-title {
@@ -136,7 +136,6 @@ background-color: #fff;
         text-align: center;
         color: #2e2f42;
         text-transform:capitalize;
-        background-color: #FFFFFF;
 }
 
 .team-list{}
